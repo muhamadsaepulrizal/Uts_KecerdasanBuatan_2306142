@@ -1,0 +1,1 @@
+# Uts_KecerdasanBuatan_2306142
