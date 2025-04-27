@@ -1,4 +1,4 @@
-# Uts_KecerdasanBuatan_2306142
+# Uts_KecerdasanBuatan_2306142_Muhamad Saepul Rizal
 
 - soal_1.pdf
 Berisi jawaban untuk soal nomor 1 (pembuatan sistem pakar berbasis aturan logika).
